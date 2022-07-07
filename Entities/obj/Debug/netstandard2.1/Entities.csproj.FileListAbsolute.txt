@@ -1,0 +1,13 @@
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\bin\Debug\netstandard2.1\Core.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.csproj.AssemblyReference.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Entities\obj\Debug\netstandard2.1\Entities.pdb

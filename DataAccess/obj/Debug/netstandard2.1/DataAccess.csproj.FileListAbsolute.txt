@@ -1,0 +1,15 @@
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\Core.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb

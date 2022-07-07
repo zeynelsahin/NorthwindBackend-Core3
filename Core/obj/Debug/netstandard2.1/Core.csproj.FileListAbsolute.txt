@@ -1,0 +1,10 @@
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\Core\obj\Debug\netstandard2.1\Core.pdb
