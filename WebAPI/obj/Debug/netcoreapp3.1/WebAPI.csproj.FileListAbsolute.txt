@@ -68,3 +68,8 @@ C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\obj\Debug\netcorea
 C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
 C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
