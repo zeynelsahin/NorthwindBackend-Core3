@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IctyUcylNNUWV9atNj4uAOjI9OJE7h8S2m7qMFexfYQWmXNhYzuQBRj+nzGBK/Uls6l/mfGPd9CRcm8vhU83og==",
+  "dgSpecHash": "MZjp9LqKpcY71pdYviy6zFOmsMwgac2qnZu1yhWB+O5eRdRDVtyXcpJnwLrK9V8HxwSl+eBAQ/rhNr7oui89RQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\zeynels\\RiderProjects\\NorthwindBackend-Core-3\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,9 @@
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.17\\microsoft.entityframeworkcore.sqlserver.5.0.17.nupkg.sha512",
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.26\\microsoft.extensions.configuration.3.1.26.nupkg.sha512",
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.26\\microsoft.extensions.configuration.binder.3.1.26.nupkg.sha512",
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",

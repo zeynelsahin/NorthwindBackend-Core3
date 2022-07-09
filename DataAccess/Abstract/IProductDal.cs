@@ -1,5 +1,6 @@
 ﻿using Core.DataAcccess;
 using Entities;
+using Entities.Concrete;
 
 namespace DataAccess.Abstract;
 

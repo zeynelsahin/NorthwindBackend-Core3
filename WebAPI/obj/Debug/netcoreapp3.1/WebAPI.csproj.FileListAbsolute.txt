@@ -73,3 +73,6 @@ C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcorea
 C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zeynels\RiderProjects\NorthwindBackend-Core-3\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

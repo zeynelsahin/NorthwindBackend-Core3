@@ -1,6 +1,8 @@
 ﻿using System.Threading.Tasks;
 using Business.Abstract;
 using Entities;
+using Entities.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using IResult = Core.Utilities.Results.IResult;
 
@@ -23,12 +25,18 @@ public class ProductsController : Controller
     {
         return result.Success ? Task.FromResult<IActionResult>(Ok(result)) : Task.FromResult<IActionResult>(BadRequest(result));
     }
-
-    [HttpGet("getAll")]
+    
+    [HttpGet("getAll")]    
+    [Authorize(Roles = "Product.List")]
     public async Task<IActionResult> GetList()
     {
         var result = await _productService.GetListAsync();
-        return await ReturnResult(result);
+        if (result.Success)
+        {
+            return Ok(result.Data);
+        }
+
+        return BadRequest(result.Message);
     }
 
     [HttpGet("getListByCategory")]

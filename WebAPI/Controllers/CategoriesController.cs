@@ -33,9 +33,9 @@ public class CategoriesController : Controller
 
    
     [HttpGet("getById")]
-    public async Task<IActionResult> GetList(int productId)
+    public async Task<IActionResult> GetList(int categoryId)
     {
-        var result = await _categoryService.GetByIdAsync(productId);
+        var result = await _categoryService.GetByIdAsync(categoryId);
         return await ReturnResult(result);
     }
 
