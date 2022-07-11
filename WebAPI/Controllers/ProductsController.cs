@@ -73,4 +73,10 @@ public class ProductsController : Controller
         var result = await _productService.DeleteAsync(product);
         return await ReturnResult(result);
     }
+    [HttpPost("TransactionTest")]
+    public async Task<IActionResult> TransactionTest(Product product)
+    {
+        var result = await _productService.TransactionOperationAsync(product);
+        return await ReturnResult(result);
+    }
 }

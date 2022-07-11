@@ -18,4 +18,5 @@ public interface IProductService
     Task<IResult> AddAsync(Product product);
     Task<IResult> DeleteAsync(Product product);
     Task<IResult> UpdateAsync(Product product);
+    Task<IResult> TransactionOperationAsync(Product product);
 }

@@ -1,5 +1,10 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Caching;
+using Core.Aspects.Autofac.Transaction;
+using Core.Aspects.Autofac.Validation;
+using Core.CrossCuttingConcerns.Validation.FluentValidation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities;
@@ -58,14 +63,18 @@ public class ProductManager: IProductService
     {
         return new SuccessDataResult<List<Product>>(await _productDal.GetListAsync());
     }
-
+    [CacheAspect(duration:1)]
     public async Task<IDataResult<List<Product>>> GetListByCategoryAsync(int categoryId)
     {
         return new SuccessDataResult<List<Product>>(await _productDal.GetListAsync(p => p.CategoryId == categoryId));
     }
 
+    [ValidationAspect(typeof(ProductValidator),Priority = 1)]
+    [TransactionScopeAspect(Priority = 2)]
+    [CacheRemoveAspect("IProductService.Get")]
     public async Task<IResult> AddAsync(Product product)
     {
+        ValidationTool.Validate(new ProductValidator(),product);
         await _productDal.AddAsync(product);
         return new SuccessResult(Messages.ProductAdded);
     }
@@ -80,5 +89,12 @@ public class ProductManager: IProductService
     {
         await _productDal.UpdateAsync(product);
         return new SuccessResult(Messages.ProductAdded);
+    }
+    [TransactionScopeAspect]
+    public async Task<IResult> TransactionOperationAsync(Product product)
+    {
+        await _productDal.UpdateAsync(product);
+        await _productDal.AddAsync(product);
+        return new SuccessResult(Messages.ProductUpdated);
     }
 }
